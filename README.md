@@ -15,6 +15,8 @@ stops for visitors who prefer reduced motion.
 
 ## Screenshots
 
+![Light and dark](screenshots/cover.png)
+
 | Light | Dark |
 | --- | --- |
 | ![Forum index](screenshots/forum-index.png) | ![Forum index, dark](screenshots/forum-index-dark.png) |
